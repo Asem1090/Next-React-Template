@@ -1,4 +1,4 @@
 # Next-React-Template
  Base repo to create a Next and React project 
 
-Cheat atttempt 1: is it reconrding? Time 10:19
+Cheat attemp 1: time 10:26. hopefully it is working.
